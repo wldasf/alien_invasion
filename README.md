@@ -3,6 +3,6 @@ alien invasion game
 
 
 launch instructions:
-sudo apt install python3-pip
-python3 -m pip install pygame
-python3 alien_invasion.py
+sudo apt install python3-pip.
+python3 -m pip install pygame.
+python3 alien_invasion.py.
